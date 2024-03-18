@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-👔 Welcome! If you're seeking Full stack projects, you've come to the right place. I can help you navigate through various aspects of full stack development and find projects tailored to your interests and skills<br><br>📡 Frontend Developer<br><br>🌐 Open source contributor <br><br>❓Ask me about python, Machine Learning<br> <br><br><br><br>
+👔 Welcome! If you're seeking Full stack projects, you've come to the right place. I can help you navigate through various aspects of full stack development and find projects tailored to your interests and skills<br><br>📡 Frontend Developer<br><br>🌐 Open source contributor <br><br>❓Ask me about python, Machine Learning<br> <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anil1703) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anilcherry03) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Anil-Sai-Kumar-Thota) 
